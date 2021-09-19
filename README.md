@@ -13,7 +13,9 @@ My desire to do something new and different has led me to two awards:
   <li>Most innovative project in the XVIII Young Entrepreneurs Prize 2016, offered by the Nebrija University</li>
 </ul>
 
+<!--
 ## Some stats
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?langs_count=100&exclude_repo=AppIgniter&username=Cesferort&show_icons=true&locale=en&" alt="Cesferort" />
 </p>
+->
