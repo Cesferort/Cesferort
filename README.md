@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi I'm Cesferort 👋
+I´m a programmer interested in software and video game development. Now that I am
+finishing my studies, I would love to become part of a company where I can test my
+knowledge and develop professionally. 
 
-<!--
-**Cesferort/Cesferort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently 
+I´m currently working on three video games. One of them will be presented as a final degree project and its code will be open source. Will announce more information as time progresses.
 
-Here are some ideas to get you started:
+## Awards
+My desire to do something new and different has led me to two awards: 
+<ul>
+  <li>Second placed in the STARTinnova competition 2016</li>
+  <li>Most innovative project in the XVIII Young Entrepreneurs Prize 2016, offered by the Nebrija University</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Some stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?langs_count=100&exclude_repo=AppIgniter&username=Cesferort&show_icons=true&locale=en&" alt="Cesferort" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?count_private=true&username=Cesferort&show_icons=true&locale=en" alt="Cesferort" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cesferort" alt="Cesferort" />
+</p>
