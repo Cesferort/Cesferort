@@ -9,8 +9,8 @@ I´m currently working on three video games. One of them will be presented as a 
 ## Awards
 My desire to do something new and different has led me to two awards: 
 <ul>
-  <li>Second placed in the STARTinnova competition 2016</li>
-  <li>Most innovative project in the XVIII Young Entrepreneurs Prize 2016, offered by the Nebrija University</li>
+  <li>Second place in the STARTinnova competition 2016</li>
+  <li>Most innovative project in the XVIII Young Entrepreneurs 2016, offered by the Nebrija University</li>
 </ul>
 
 ## Some stats
