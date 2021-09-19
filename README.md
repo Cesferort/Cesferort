@@ -17,11 +17,3 @@ My desire to do something new and different has led me to two awards:
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?langs_count=100&exclude_repo=AppIgniter&username=Cesferort&show_icons=true&locale=en&" alt="Cesferort" />
 </p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?count_private=true&username=Cesferort&show_icons=true&locale=en" alt="Cesferort" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cesferort" alt="Cesferort" />
-</p>
