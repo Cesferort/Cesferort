@@ -15,5 +15,5 @@ My desire to do something new and different has led me to two awards:
 
 ## Some stats
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?langs_count=100&exclude_repo=AppIgniter&username=Cesferort?hide=html&show_icons=true&locale=en&" alt="Cesferort" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesferort&hide=html,haskell,shell,hack&show_icons=true&layout=compact&langs_count=20" alt="Cesferort" />
 </p>
