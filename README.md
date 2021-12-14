@@ -4,7 +4,7 @@ finishing my studies, I would love to become part of a company where I can test 
 knowledge and develop professionally. 
 
 ## Currently 
-I´m currently working on three video games. One of them will be presented as a final degree project and its code will be open source. Will announce more information as time progresses.
+I´m currently working on three video games, one of them will be presented as a final degree project. Will announce more information as time progresses.
 
 ## Awards
 My desire to do something new and different has led me to two awards: 
