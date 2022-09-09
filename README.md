@@ -12,8 +12,3 @@ My desire to do something new and different has led me to two awards:
   <li>Second place in the STARTinnova competition 2016</li>
   <li>Most innovative project in the XVIII Young Entrepreneurs 2016, offered by the Nebrija University</li>
 </ul>
-
-## Some stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesferort&hide=haskell,shell,hack,pascal&show_icons=true&layout=compact&langs_count=10&count_private=true&exclude_repo=DWES-Biblioteca" alt="Cesferort" />
-</p>
