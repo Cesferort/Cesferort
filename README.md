@@ -1,12 +1,12 @@
 # Hi, I'm Cesferort 👋
 
-I'm a programmer passionate about software and video game development. In addition to programming, I'm also a **content creator on YouTube**. You can check out my channel here: **<a href="https://www.youtube.com/c/Cesferort" target="_blank" rel="noopener noreferrer">Cesferort on YouTube</a>**
+I'm a programmer passionate about software and video game development. In addition to programming, I'm also a **content creator**. You can check out my channel here: [Cesferort on YouTube](https://www.youtube.com/c/Cesferort)
 
 ## Currently
 
 I'm currently working on:  
-- Two video games 
-- A free Google Chrome extension called **<a href="https://github.com/Cesferort/SteamSight" target="_blank" rel="noopener noreferrer">SteamSight</a>**
+- Two video games  
+- A free Google Chrome extension called **[SteamSight](https://github.com/Cesferort/SteamSight)**
 
 ## Awards
 
