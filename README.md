@@ -7,6 +7,7 @@ I'm a programmer passionate about software and video game development. In additi
 I'm currently working on:  
 - Two video games  
 - A free Google Chrome extension called **[SteamSight](https://github.com/Cesferort/SteamSight)**
+- Full-time software developer
 
 ## Awards
 
