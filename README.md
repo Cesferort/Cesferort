@@ -6,7 +6,7 @@ Everything I'm building lives in one place: **[cesferort.github.io](https://cesf
 
 ## Currently
 
-- **[IRATXO](https://cesferort.github.io/IRATXO-SITE/)** — a focus app for Android. You choose how long you're going to work, the Iratxos head out on an expedition, and the village grows with what they bring back. No account, no ads, no server.
+- **[IRATXO](https://cesferort.github.io/iratxo-site/)** — a focus app for Android. You choose how long you're going to work, the Iratxos head out on an expedition, and the village grows with what they bring back. No account, no ads, no server.
 - **[Wishwell for Steam](https://cesferort.github.io/wishwell-site/)** — a free Chrome extension that replaces the Steam wishlist with a panel you can actually shop from: regional prices, deals away from Steam, HowLongToBeat playtimes, Steam Deck and ProtonDB compatibility, filters, themes and price alerts.
 - An FPS that isn't announced yet.
 - Full-time software developer.
